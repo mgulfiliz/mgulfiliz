@@ -1,7 +1,9 @@
-# Hi there, I'm Merich! 👋  
+# Hi there, I'm Merich! 👋
 
-## 💡 About Me  
+## 💡 About Me
+
 I'm a **Physics** graduate with a background in **Industrial Automation**. My journey in tech started early, driven by passion for **coding, computers, and hardware**. I've explored diverse areas including:
+
 - 🎮 Game modding and addon development
 - 💻 Software development
 - 🔧 Hardware design (PCBs)
@@ -9,12 +11,13 @@ I'm a **Physics** graduate with a background in **Industrial Automation**. My jo
 
 Currently focusing on building my **portfolio** and transitioning into the IT industry, where I can combine my technical expertise with my passion for problem-solving.
 
-## 🛠️ Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools
 
 ### Languages
+
 <div align="left">
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+    <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/>
     <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
     <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -26,10 +29,11 @@ Currently focusing on building my **portfolio** and transitioning into the IT in
 <br />
 
 ### Frameworks & Tools
+
 <div align="left">
     <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+    <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
     <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg"/>
 </div>
 
@@ -37,6 +41,7 @@ Currently focusing on building my **portfolio** and transitioning into the IT in
 <br />
 
 ### Databases
+
 <div align="left">
     <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
@@ -46,13 +51,16 @@ Currently focusing on building my **portfolio** and transitioning into the IT in
 <br />
 
 ## 🔥 Current Focus
+
 - 🎮 Developing game addons & mods
 - 💻 Building small software projects
 - 🔬 Creating physics-related computational tools
 - 📂 Expanding my portfolio
 
 ## 💻 Coding Philosophy
+
 I believe in writing **clean, structured, and efficient code**. My background in physics and industrial automation has taught me the importance of precision and reliability in software development.
 
 ## 🌐 Portfolio & Contact
+
 🔗 [Portfolio](https://merich.github.io)
